@@ -42,12 +42,6 @@ Equipo de desarrollo:
 
 \- Julian Alexis Sánchez Sánchez
 
-\- Alan Antonio Cortez Hernández
-
-\- Irvin Pérez Ochoa
-
-\- Javier Rojas Vivanco
-
 
 
 Conceptos aplicados:
